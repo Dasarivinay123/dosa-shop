@@ -7,3 +7,9 @@
 * Dosa Batter
 * oil
 * karam
+
+## Egg Dosa
+* Dosa Batter
+* oil
+* 1 egg
+
